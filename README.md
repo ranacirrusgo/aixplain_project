@@ -266,11 +266,27 @@ python cli.py interactive
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-### Development Guidelines
+### Demo
+Below are sample demonstrations of the Policy Navigator Agent in action using the CLI interface:
 
-- Follow PEP 8 style guidelines
-- Add unit tests for new features
-- Update documentation for API changes
-- Use structured logging for debugging
-- Include error handling for external APIs
+1. Query Example
+
+<img width="1277" height="162" alt="image" src="https://github.com/user-attachments/assets/51d601bd-b0d2-43a8-9030-681599fa0397" />
+
+Output:
+
+<img width="1480" height="116" alt="Screenshot 2025-08-25 115234" src="https://github.com/user-attachments/assets/8086c397-633a-4f14-8122-7ad51aa7cdf0" />
+
+
+2. Policy Notification Example
+
+<img width="1548" height="177" alt="Screenshot 2025-08-25 102726" src="https://github.com/user-attachments/assets/76b612ca-1132-4e6e-9fcf-5305c7214c7a" />
+
+Output:
+<img width="982" height="334" alt="image" src="https://github.com/user-attachments/assets/fe480536-50c3-449e-91f7-454850ff45b4" />
+
+
+
+
+
 
