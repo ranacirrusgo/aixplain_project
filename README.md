@@ -283,7 +283,7 @@ Output:
 <img width="1548" height="177" alt="Screenshot 2025-08-25 102726" src="https://github.com/user-attachments/assets/76b612ca-1132-4e6e-9fcf-5305c7214c7a" />
 
 Output:
-<img width="982" height="334" alt="image" src="https://github.com/user-attachments/assets/fe480536-50c3-449e-91f7-454850ff45b4" />
+<img width="1372" height="162" alt="image" src="https://github.com/user-attachments/assets/2e10ad60-d5ea-45a6-9a6f-a4ac620a0cf5" />
 
 
 
