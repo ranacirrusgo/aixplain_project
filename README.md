@@ -8,12 +8,12 @@ The Policy Navigator Agent is an intelligent system designed to help users navig
 
 ### Key Features
 
-- ** Intelligent Policy Search**: Vector-based search through policy documents using ChromaDB
-- ** Real-time Policy Status**: Integration with Federal Register API for up-to-date policy information
-- ** Case Law Analysis**: CourtListener API integration for relevant legal precedents
-- ** Compliance Analysis**: Custom analysis tools for extracting compliance requirements
-- ** Slack Integration**: Automated notifications and reminders via Slack
-- ** Multi-Agent Architecture**: Coordinated agents specializing in different aspects of policy research
+-  Intelligent Policy Search: Vector-based search through policy documents using ChromaDB
+-  Real-time Policy Status: Integration with Federal Register API for up-to-date policy information
+-  Case Law Analysis: CourtListener API integration for relevant legal precedents
+-  Compliance Analysis: Custom analysis tools for extracting compliance requirements
+-  Slack Integration: Automated notifications and reminders via Slack
+-  Multi-Agent Architecture: Coordinated agents specializing in different aspects of policy research
 
 ##  Architecture
 
