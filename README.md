@@ -54,7 +54,7 @@ The Policy Navigator Agent can handle queries like:
 ### Prerequisites
 
 - Python 3.8+
-- aiXplain API key (optional, for full aiXplain integration)
+- aiXplain API key 
 - Slack Bot Token (optional, for Slack notifications)
 
 ### Installation
@@ -65,18 +65,13 @@ The Policy Navigator Agent can handle queries like:
    cd policy-navigator-agent
    ```
 
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. **Set up environment variables**
+2.  **Set up environment variables**
    ```bash
    cp .env.example .env
    # Edit .env with your API keys
    ```
 
-4. **Initialize the agent**
+3. **Initialize the agent**
    ```bash
    python cli.py setup
    ```
@@ -257,14 +252,6 @@ pip install -e .
 python cli.py setup --initialize-data
 python cli.py interactive
 ```
-
-##  Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 ### Demo
 Below are sample demonstrations of the Policy Navigator Agent in action using the CLI interface:
